@@ -4,8 +4,7 @@ Create a new repository step by step
 ## 1 新建项目
  * 点击右上角的“+”，新建项目
  * ![step1](./src/img/step1.png)
- * 在页面中你就可以看到新建的项目 
-
+ * 在页面中你就可以看到新建的项目
 
 ## 2 clone 项目
 
@@ -15,13 +14,18 @@ Create a new repository step by step
  * 通过git clone 命令clone 项目到本地 ，然后再本地目录中就可以看到里面的文件了。
 
 
-## 3 新建分支、修改、上传
+## 3 新建分支
  * 为了更好的开发，可以新建分支
  * 新建分支可以在github网页上点击新建，也可以用命令新建。
  *  ![step4](./src/img/step4.png)
  *  这样就新建好了一个新的分支
  > ![step4](./src/img/readme-edits.gif)
- > 接下来你就可以编写你需要实现的代码了。
+ * 接下来你就可以编写你需要实现的代码了。
 
 
-## 3 新建分支、修改、上传
+## 4 修改、上传服务器
+
+ * 在本地修改，然后添加 上传
+ * ![step5](./src/img/step5.png)
+ * ![step6](./src/img/step6.png)
+ * ![step7](./src/img/step7.png)
